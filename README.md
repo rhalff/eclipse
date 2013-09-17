@@ -16,4 +16,4 @@ Currently includes:
  - [Vrapper](http://vrapper.sourceforge.net/home/)
  - [TypeScript](https://github.com/palantir/eclipse-typescript)
  - [Markdown Editor](http://www.winterwell.com/software/markdown-editor.php)
- - Eclipse Color Theme
+ - [Eclipse Color Theme](http://eclipsecolorthemes.org/?view=plugin)
