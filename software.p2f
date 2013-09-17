@@ -2,6 +2,16 @@
 <?p2f version='1.0.0'?>
 <p2f version='1.0.0'>
   <ius size='21'>
+    <iu id='com.amazonaws.eclipse.ec2.feature.group' name='Amazon EC2 Management' version='1.1.0.v201308121803'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
+    <iu id='com.amazonaws.eclipse.core.feature.feature.group' name='AWS Toolkit for Eclipse Core' version='2.0.1.v201308121803'>
+      <repositories size='1'>
+        <repository location='http://aws.amazon.com/eclipse'/>
+      </repositories>
+    </iu>
     <iu id='org.chromium.sdk.feature.group' name='ChromeDevTools SDK' version='0.3.9.201309080643'>
       <repositories size='1'>
         <repository location='http://www.nodeclipse.org/updates/'/>
@@ -14,9 +24,9 @@
     </iu>
     <iu id='org.eclipse.jgit.pgm.feature.group' name='Command Line Interface for Java implementation of Git' version='3.0.0.201306101825-r'>
       <repositories size='3'>
+        <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
         <repository location='http://download.eclipse.org/egit/updates'/>
         <repository location='http://download.eclipse.org/releases/kepler'/>
-        <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.jgit.pgm.source.feature.group' name='Command Line Interface for Java implementation of Git - Source Code' version='3.0.0.201306101825-r'>
@@ -46,14 +56,14 @@
     </iu>
     <iu id='epp.package.standard' name='Eclipse Standard/SDK' version='2.0.0.20130613-0530'>
       <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/kepler'/>
         <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.wst.web_ui.feature.feature.group' name='Eclipse Web Developer Tools' version='3.5.0.v201209252144-7O7QG-6EMkBQ3Bg_peduj80T4Kg8QYEUELicbYyf'>
       <repositories size='2'>
-        <repository location='http://download.eclipse.org/releases/kepler'/>
         <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
       </repositories>
     </iu>
     <iu id='com.heroku.eclipse.feature.feature.group' name='Heroku Eclipse Plugin' version='1.0.2.201210261829'>
@@ -63,9 +73,9 @@
     </iu>
     <iu id='org.eclipse.jgit.java7.feature.group' name='Java implementation of Git - optional Java 7 libraries' version='3.0.0.201306101825-r'>
       <repositories size='3'>
+        <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
         <repository location='http://download.eclipse.org/egit/updates'/>
         <repository location='http://download.eclipse.org/releases/kepler'/>
-        <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.jgit.source.feature.group' name='Java implementation of Git - Source Code' version='3.0.0.201306101825-r'>
@@ -102,16 +112,6 @@
     <iu id='com.google.eclipse.elt.feature.group' name='Terminal' version='1.1.2.201208131620'>
       <repositories size='1'>
         <repository location='http://elt.googlecode.com/git/update-site'/>
-      </repositories>
-    </iu>
-    <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript' version='1.0.0.v20130909-1844'>
-      <repositories size='1'>
-        <repository location='http://eclipse-update.palantir.com/eclipse-typescript/'/>
-      </repositories>
-    </iu>
-    <iu id='net.sourceforge.vrapper.feature.group' name='Vrapper' version='0.34.1'>
-      <repositories size='1'>
-        <repository location='http://vrapper.sourceforge.net/update-site/stable'/>
       </repositories>
     </iu>
   </ius>
