@@ -17,7 +17,7 @@ Currently includes:
  - [ELT Terminal](https://code.google.com/p/elt/) Command line terminal
  - [Markdown Editor](http://www.winterwell.com/software/markdown-editor.php)
  - [Eclipse Color Theme](http://eclipsecolorthemes.org/?view=plugin)
- - [AWS Toolkit for Eclipse](http://aws.amazon.com/eclipse/)
+ - [AWS Toolkit for Eclipse](http://aws.amazon.com/eclipse/) Manage Amazon S3 etc.
  
 Manual install:
 
