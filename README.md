@@ -1,5 +1,9 @@
-Eclipse
-=======
+NodeJS Heroku Eclipse Setup
+===========================
+
+Use File > Import > Install > Install Software Items from File
+
+To load software.p2f into your eclipse installation.
 
 Development Setup for Eclipse 
 
