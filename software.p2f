@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?p2f version='1.0.0'?>
+<p2f version='1.0.0'>
+  <ius size='21'>
+    <iu id='org.chromium.sdk.feature.group' name='ChromeDevTools SDK' version='0.3.9.201309080643'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.chromium.debug.feature.group' name='Chromium JavaScript Remote Debugger' version='0.3.9.201309080643'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jgit.pgm.feature.group' name='Command Line Interface for Java implementation of Git' version='3.0.0.201306101825-r'>
+      <repositories size='3'>
+        <repository location='http://download.eclipse.org/egit/updates'/>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+        <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jgit.pgm.source.feature.group' name='Command Line Interface for Java implementation of Git - Source Code' version='3.0.0.201306101825-r'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/egit/updates'/>
+      </repositories>
+    </iu>
+    <iu id='com.github.eclipsecolortheme.feature.feature.group' name='Eclipse Color Theme' version='0.12.0.201207240713'>
+      <repositories size='1'>
+        <repository location='http://eclipse-color-theme.github.com/update'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.egit.feature.group' name='Eclipse Git Team Provider' version='3.0.1.201307141637-r'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/egit/updates'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.egit.source.feature.group' name='Eclipse Git Team Provider - Source Code' version='3.0.1.201307141637-r'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/egit/updates'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.sdk.samples' name='Eclipse SDK Samples' version='4.3.0'>
+      <repositories size='1'>
+        <repository location='http://www.eclipse.org/pde/samples/site.xml'/>
+      </repositories>
+    </iu>
+    <iu id='epp.package.standard' name='Eclipse Standard/SDK' version='2.0.0.20130613-0530'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+        <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.wst.web_ui.feature.feature.group' name='Eclipse Web Developer Tools' version='3.5.0.v201209252144-7O7QG-6EMkBQ3Bg_peduj80T4Kg8QYEUELicbYyf'>
+      <repositories size='2'>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+        <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
+      </repositories>
+    </iu>
+    <iu id='com.heroku.eclipse.feature.feature.group' name='Heroku Eclipse Plugin' version='1.0.2.201210261829'>
+      <repositories size='1'>
+        <repository location='https://eclipse-plugin.herokuapp.com/install'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jgit.java7.feature.group' name='Java implementation of Git - optional Java 7 libraries' version='3.0.0.201306101825-r'>
+      <repositories size='3'>
+        <repository location='http://download.eclipse.org/egit/updates'/>
+        <repository location='http://download.eclipse.org/releases/kepler'/>
+        <repository location='http://market.eclipsesource.com/yoxos/mpc/latestrepo/org.eclipse.wst.web_ui.feature.feature.group/4.3.0.v20130605-2000/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.jgit.source.feature.group' name='Java implementation of Git - Source Code' version='3.0.0.201306101825-r'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/egit/updates'/>
+      </repositories>
+    </iu>
+    <iu id='jsonedit-feature.feature.group' name='JSON Editor Plugin' version='0.9.7'>
+      <repositories size='1'>
+        <repository location='https://sourceforge.net/projects/eclipsejsonedit/files/update'/>
+      </repositories>
+    </iu>
+    <iu id='markdown.editor.feature.feature.group' name='Markdown Editor' version='0.2.3'>
+      <repositories size='2'>
+        <repository location='http://www.winterwell.com/software/updatesite/'/>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='net.jumperz.app.MMonjaDB.feature.group' name='MonjaDBFeature' version='1.0.15'>
+      <repositories size='1'>
+        <repository location='http://www.jumperz.net/update/'/>
+      </repositories>
+    </iu>
+    <iu id='org.nodeclipse.feature.group' name='Nodeclipse' version='0.5.0.201309080643'>
+      <repositories size='1'>
+        <repository location='http://www.nodeclipse.org/updates/'/>
+      </repositories>
+    </iu>
+    <iu id='org.eclipse.egit.mylyn.feature.group' name='Task focused interface for Eclipse Git Team Provider' version='3.0.1.201307141637-r'>
+      <repositories size='1'>
+        <repository location='http://download.eclipse.org/egit/updates'/>
+      </repositories>
+    </iu>
+    <iu id='com.google.eclipse.elt.feature.group' name='Terminal' version='1.1.2.201208131620'>
+      <repositories size='1'>
+        <repository location='http://elt.googlecode.com/git/update-site'/>
+      </repositories>
+    </iu>
+    <iu id='com.palantir.typescript.feature.feature.group' name='TypeScript' version='1.0.0.v20130909-1844'>
+      <repositories size='1'>
+        <repository location='http://eclipse-update.palantir.com/eclipse-typescript/'/>
+      </repositories>
+    </iu>
+    <iu id='net.sourceforge.vrapper.feature.group' name='Vrapper' version='0.34.1'>
+      <repositories size='1'>
+        <repository location='http://vrapper.sourceforge.net/update-site/stable'/>
+      </repositories>
+    </iu>
+  </ius>
+</p2f>
