@@ -23,3 +23,4 @@ Manual install:
 
  - [Vrapper](http://vrapper.sourceforge.net/home/) VI keybinding support 
  - [TypeScript](https://github.com/palantir/eclipse-typescript) Typescript support
+ - [Pdf4Eclipse](http://borisvl.github.io/Pdf4Eclipse/) PDF Reader Plugin
